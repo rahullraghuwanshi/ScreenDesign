@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zumi</string>
+    <string name="term_and_condition"><![CDATA[I agree to OneScore\'s TErms ofUse and Privacy Policy & authorise to communicate via SMS, Email & WhatsApp. I hereby request for a copy of my Credit information and/or agregates on my registered email id or through my OneScore acount, and authorise Experian and CIBIl to also provide the same to FPL Technologies Private Limited, on my behalf.]]></string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="linked_to_your_bank_account">Linked to your bank account</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="get_otp">Get OTP</string>
+
+    <string name="text">&lt;b>I agree to &lt;font color="#FF3700B3">the underlined colored part here&lt;font>&lt;b>></string>
+</resources>
